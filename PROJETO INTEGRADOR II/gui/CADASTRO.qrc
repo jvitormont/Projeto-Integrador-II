@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="add">
+    <file>ICONES/APAGAR.png</file>
+    <file>ICONES/ATUALIZAR.png</file>
+    <file>ICONES/CADASTRAR.png</file>
+    <file>ICONES/ENTREGADOR.png</file>
+    <file>ICONES/LIXEIRA.png</file>
+    <file>ICONES/olho.png</file>
+    <file>ICONES/PROCURAR.png</file>
+    <file>ICONES/REFRESH.png</file>
+    <file>ICONES/REPOSITOR.png</file>
+    <file>ICONES/saida.png</file>
+    <file>ICONES/SENHA.png</file>
+    <file>ICONES/USUARIO.png</file>
+  </qresource>
+</RCC>
